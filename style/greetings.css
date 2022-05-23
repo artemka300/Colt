@@ -7,7 +7,7 @@
 
 body{
     background: url(../img/unknown.png) center center/cover, no-repeat;
-    
+    height: 100vh;
 }
 .logo{
     color: white;
