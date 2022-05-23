@@ -5,7 +5,8 @@
     overflow-y: hidden;
 }
 body{
-    background: #00202a;
+    background: url(../img/Fon.jpg) center center/cover, no-repeat;
+    height: 100vh;
     padding: 2% 3% 0 3%;
 }
 .logo{
@@ -102,6 +103,7 @@ body{
 }
 .promo2{
     padding-top: 30px;
+    display: flex;
 }
 .Leader, .DLeader, .Old, .Inviter_director, .Inviter_hard, .High_composition, .probation, .caller, .invite, .family{
     width: 60px;
@@ -124,6 +126,7 @@ body{
     width: 58px;
     height: 58px;
 }
+
 .reng{
     display: flex;
     flex-direction: column;
